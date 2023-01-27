@@ -261,6 +261,7 @@ ul{
         width: 100%;
         overflow: hidden;
         transition: max-height 0.5s;
+        z-index: 100;
     }
     nav ul li{
         display: block;
